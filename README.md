@@ -7,7 +7,7 @@ Fedora
 # yum install git (up to Fedora 21)
 # dnf install git (Fedora 22 and later)
 Gentoo
-# emerge --ask --verbose dev-vcs/git
+# emerge --ask --verbose wiria-koswara/git
 Arch Linux
 # pacman -S git
 openSUSE
